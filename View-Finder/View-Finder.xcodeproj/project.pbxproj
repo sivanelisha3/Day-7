@@ -14,6 +14,7 @@
 		9784D2D12302F243007C3AE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9784D2CF2302F243007C3AE1 /* LaunchScreen.storyboard */; };
 		9784D2DC2302F243007C3AE1 /* View_FinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784D2DB2302F243007C3AE1 /* View_FinderTests.swift */; };
 		9784D2E72302F243007C3AE1 /* View_FinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784D2E62302F243007C3AE1 /* View_FinderUITests.swift */; };
+		9784D2F52302FCDA007C3AE1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784D2F42302FCDA007C3AE1 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9784D2E22302F243007C3AE1 /* View-FinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "View-FinderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9784D2E62302F243007C3AE1 /* View_FinderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View_FinderUITests.swift; sourceTree = "<group>"; };
 		9784D2E82302F243007C3AE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9784D2F42302FCDA007C3AE1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				9784D2C32302F242007C3AE1 /* AppDelegate.swift */,
 				9784D2C72302F242007C3AE1 /* Main.storyboard */,
+				9784D2F42302FCDA007C3AE1 /* ViewController.swift */,
 				9784D2CD2302F243007C3AE1 /* Assets.xcassets */,
 				9784D2CF2302F243007C3AE1 /* LaunchScreen.storyboard */,
 				9784D2D22302F243007C3AE1 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9784D2C42302F242007C3AE1 /* AppDelegate.swift in Sources */,
+				9784D2F52302FCDA007C3AE1 /* ViewController.swift in Sources */,
 				9784D2CC2302F242007C3AE1 /* View_Finder.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
